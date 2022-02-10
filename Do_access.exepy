@@ -1,0 +1,3 @@
+1	xpath	/html/body/div[1]/div[3]/form/div[1]/div[1]/div[1]/div/div[2]/input		send_keys()	seleniumとは？
+2	execute_script	alert('ページの遷移ができましたか？')				
+3	alert			accept()	
